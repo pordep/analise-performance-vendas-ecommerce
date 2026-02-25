@@ -20,7 +20,6 @@ Projeto de análise de dados end-to-end, simulando um ambiente real de engenhari
 ### 🖥️ Demonstração
 <video src="https://github.com/user-attachments/assets/5c1bc368-d4eb-4e46-af0e-3d903eed3f82" width="600" autoplay loop muted playsinline>
 </video>
-</video>
 
 ### 📸 Capturas de Tela
 <img src="https://github.com/user-attachments/assets/10080abf-4300-43d6-969f-3996dc3fdc9d" width="800" />
