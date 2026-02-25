@@ -17,6 +17,11 @@ Projeto de análise de dados end-to-end, simulando um ambiente real de engenhari
 - Análise de dispersão entre Ticket Médio e Volume para identificação de nichos de mercado.
 - Monitoramento de custos logísticos por categoria.
 
+### 🖥️ Demonstração
+<video src="https://github.com/user-attachments/assets/5c1bc368-d4eb-4e46-af0e-3d903eed3f82" width="600" autoplay loop muted playsinline>
+</video>
+</video>
 
-<img width="800" height="600" alt="Captura de tela 2026-02-25 134524" src="https://github.com/user-attachments/assets/10080abf-4300-43d6-969f-3996dc3fdc9d" />
-<img width="800" height="600" alt="Captura de tela 2026-02-25 150936" src="https://github.com/user-attachments/assets/e4adc84f-e215-4e76-9056-c9d44c90a416" />
+### 📸 Capturas de Tela
+<img src="https://github.com/user-attachments/assets/10080abf-4300-43d6-969f-3996dc3fdc9d" width="800" />
+<img src="https://github.com/user-attachments/assets/e4adc84f-e215-4e76-9056-c9d44c90a416" width="800" />
